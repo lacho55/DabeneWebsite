@@ -10,8 +10,8 @@
  * wp-config.php file.
  *
  * Will also search for wp-config.php in WordPress' parent
- * directory to allow the WordPress directory to remain
- * untouched.
+ * directory to allow the WordPress directory to remain untouched.
+ * 
  *
  * @package WordPress
  */
